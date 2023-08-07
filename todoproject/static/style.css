@@ -1,0 +1,13 @@
+.banner{
+        background-color:rgb(234 88 12);
+        width:100%;
+        height:100px;
+        margin-bottom:50px;
+
+        }
+
+ .banner-text{
+ color:rgb(128, 0, 0);
+ text-align:center;
+ padding:20px;
+ }
